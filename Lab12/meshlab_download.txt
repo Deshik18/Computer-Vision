@@ -1,0 +1,2 @@
+To view the 3D object(.obj) created, Meshlab is required to download
+https://www.meshlab.net/#download
